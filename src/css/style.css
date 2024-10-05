@@ -54,7 +54,7 @@ p {
 }
 .review::before {
   font-size: 24px;
-  content: url(/images/icons/quots.svg);
+  content: url(../../images/icons/quots.svg);
 }
 
 .author {
@@ -140,7 +140,7 @@ p {
 }
 header {
   height: 600px;
-  background: #01b3b0 url(/images/top-header.jpg) no-repeat center/cover fixed;
+  background: #01b3b0 url(../../images/top-header.jpg) no-repeat center/cover fixed;
   z-index: 1;
 }
 h1 {
